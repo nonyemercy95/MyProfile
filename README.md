@@ -8,3 +8,5 @@ Student
 NIGERIAN
 ### COUNTRY of RESIDENCE
 RWANDA
+### DEPARTMENT
+School(Technology & coding)
